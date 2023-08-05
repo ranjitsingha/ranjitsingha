@@ -1,4 +1,3 @@
-### Hi there 👋
 I'm Ranjit Singha.
 
 #### GitHub Stats
