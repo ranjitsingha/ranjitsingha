@@ -1,4 +1,4 @@
-I'm Ranjit Singha. I live in India and is  currently a college student. I am self learned android app developer.
+I'm Ranjit Singha. I live in India and is  currently a college student. I am ambitious and driven self-taught professional android app developer and I ❤️ to code.
 
 #### GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=ranjitsingha&show_icons=true&icon_color=D32F2F&theme=dark&title_color=D32F2F)  
