@@ -1,4 +1,4 @@
-I'm Ranjit. I live in India. I am ambitious and driven self-taught professional android app developer and I ❤️ to code.
+I'm Ranjit. I live in India. I am ambitious and driven self-taught professional android app developer
 
 #### GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=ranjitsingha&show_icons=true&icon_color=D32F2F&theme=dark&title_color=D32F2F)
