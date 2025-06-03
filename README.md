@@ -1,12 +1,11 @@
 I'm Ranjit. I am a self taught Android Developer. My contributions remains private
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Lua](https://img.shields.io/badge/lua-3670A0?style=for-the-badge&logo=lua&logoColor=ffdd54)
 
 ![](https://komarev.com/ghpvc/?username=ranjitsingha&color=2196f3)
