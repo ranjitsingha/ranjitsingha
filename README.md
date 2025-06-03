@@ -1,4 +1,3 @@
-## About Me
 I'm Ranjit. I am a self taught Android Developer. My contributions remains private
 
 ### Languages
