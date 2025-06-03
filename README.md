@@ -1,4 +1,4 @@
-I'm Ranjit. 
+I'm Ranjit. I am a self taught Android Developer.
 
 #### GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=ranjitsingha&show_icons=true&icon_color=D32F2F&theme=dark&title_color=D32F2F)
