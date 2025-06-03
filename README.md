@@ -1,4 +1,4 @@
-I'm Ranjit. I am a self taught Android Developer.
+I'm Ranjit. I am a self taught Android Developer. My contributions remains private
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
