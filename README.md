@@ -8,6 +8,5 @@ I'm Ranjit. I am a self taught Android Developer. My contributions remains priva
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=Bash)
 
 ![](https://komarev.com/ghpvc/?username=ranjitsingha&color=2196f3)
