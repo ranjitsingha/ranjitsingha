@@ -11,4 +11,4 @@ I'm Ranjit. I am a self taught Android, web & Ai Developer. My contributions and
 ![R](https://img.shields.io/badge/R-3670A0?style=for-the-badge&logo=R&logoColor=ffdd54)
 
 ## Stats
-![](https://komarev.com/ghpvc/?username=ranjitsingha&color=2196f3)
+![Visitors](https://komarev.com/ghpvc/?username=ranjitsingha&color=2196f3)
