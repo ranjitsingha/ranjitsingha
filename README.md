@@ -9,6 +9,7 @@ I'm Ranjit. I am a self taught Android, web & Ai Developer. My contributions and
 ![Lua](https://img.shields.io/badge/lua-3670A0?style=for-the-badge&logo=lua&logoColor=ffdd54)
 ![Javascript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-3670A0?style=for-the-badge&logo=R&logoColor=ffdd54)
+![Jupyter](https://img.shields.io/badge/Juypter-3670A0?style=for-the-badge&logo=Juypter&logoColor=ffdd54)
 
 ## Stats
 ![Visitors](https://komarev.com/ghpvc/?username=ranjitsingha&color=2196f3)
