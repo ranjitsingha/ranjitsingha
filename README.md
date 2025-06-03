@@ -1,3 +1,4 @@
+## About Me
 I'm Ranjit. I am a self taught Android Developer. My contributions remains private
 
 ### Languages
@@ -8,4 +9,5 @@ I'm Ranjit. I am a self taught Android Developer. My contributions remains priva
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Lua](https://img.shields.io/badge/lua-3670A0?style=for-the-badge&logo=lua&logoColor=ffdd54)
 
+## Stats
 ![](https://komarev.com/ghpvc/?username=ranjitsingha&color=2196f3)
