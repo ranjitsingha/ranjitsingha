@@ -1,4 +1,4 @@
-I'm Ranjit. I am a self taught Android, ios Developer. My major contributions and projects remains private
+I'm Ranjit. I am an Android & ios Developer. My major contributions and projects remains private
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
