@@ -1,4 +1,4 @@
-I'm Ranjit. I am an Android & ios Developer. My major contributions and projects remains private
+I'm Ranjit. I’m a full-stack Android and iOS developer specializing in AI technologies. I’ve developed several production-grade AI applications, many of which remain private. My focus is on building intelligent, efficient, and scalable systems that combine machine learning with innovative product design.
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
